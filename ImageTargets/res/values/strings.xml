@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ImageTargets</string>
+    <string name="app_description">QCAR ImageTargets Sample Application</string>
+    <string name="strSpecs">Specs</string>
+    <string name="strCompare">Compare</string>
+    <string name="strShowRoom">Show Room</string>
+    <string name="strTitle">Options</string>
+</resources>
